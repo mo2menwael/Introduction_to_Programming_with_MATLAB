@@ -22,3 +22,8 @@ for i=1:row
 end
 output=uint8(output);
 end
+
+%To call your function
+%img = imread('vandy.png');
+%output = blur(img,2);
+%imshow(output);
