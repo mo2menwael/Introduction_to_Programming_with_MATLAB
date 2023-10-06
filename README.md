@@ -71,5 +71,5 @@ No Graded Assignment or Quiz
 - [Project: Image Blur](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Final%20Projects/blur.m)
 - [Project: Echo Generator](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Final%20Projects/echo_gen.m)
 
-## [Certificate](https://www.coursera.org/account/accomplishments/verify/98MHXZJ9AEK5) 🎓
+## 🎓 [Certificate](https://www.coursera.org/account/accomplishments/verify/98MHXZJ9AEK5)
 ![Image](https://i.imgur.com/00J7lEV.png)
