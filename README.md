@@ -18,55 +18,57 @@ No Graded Assignment or Quiz
 
 ## Week 2: The MATLAB Environment
 ### Programming Assignments
-- [MATLAB as a Calculator](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/57361937b09b84d509fbb38621b5859984a56eda/Assignments/Week%202/MATLAB%20Calculation.m)
-- [Lesson 1 Wrap-Up](Assignments/Week 2/Lesson 1 Wrap-up.m)
+- [MATLAB as a Calculator](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%202/MATLAB%20Calculation.m)
+- [Lesson 1 Wrap-Up](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%202/Lesson%201%20Wrap-up.m)
 
 ## Week 3: Matrices and Operators
 ### Programming Assignments
-- [Assignment: Colon Operators](week-3/colon_operators.m)
-- [Assignment: Matrix Indexing](week-3/matrix_indexing.m)
-- [Assignment: Matrix Arithmetic](week-3/matrix_arithmetic.m)
+- [Assignment: Colon Operators](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%203/Colon%20Operator.m)
+- [Assignment: Matrix Indexing](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%203/Matrix%20Indexing.m)
+- [Assignment: Matrix Arithmetic](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%203/Matrix%20Arithmetic.m)
 
 ### Quizzes
-- [Lesson 2 Wrap Up](week-3/lesson-2-wrap-up.md)
+- [Lesson 2 Wrap Up](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/tree/main/Assignments/Week%203/Lesson%202%20Wrap-up%20Quiz)
 
 ## Week 4: Functions
 ### Programming Assignments
-- [Assignment: A Simple Function](week-4/tri_area.m)
-- [Assignment: Multiple Outputs](week-4/corners.m)
-- [Assignment: Lesson 3 Wrap-Up](week-4/taxi_fare.m)
+- [Assignment: A Simple Function](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%204/A%20Simple%20Function.m)
+- [Assignment: Multiple Outputs](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%204/Multiple%20Outputs.m)
+- [Assignment: Lesson 3 Wrap-Up](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%204/taxi_fare.m)
 
 ## Week 5: Programmer's Toolbox
 ### Programming Assignments
-- [Assignment: Built-In Functions](week-5/minimax.m)
-- [Assignment: Matrix Construction](week-5/trio.m)
+- [Assignment: Built-In Functions](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%205/minimax.m)
+- [Assignment: Matrix Construction](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%205/trio.m)
 
 ## Week 6: Selection
 ### Programming Assignments
-- [Assignment: If-Statement Practice](week-6/picker.m)
-- [Assignment: More Practice](week-6/eligible.m)
-- [Assignment: nargin](week-6/under_age.m)
-- [Assignment: Lesson 5 Wrap-Up](week-6/valid_date.m)
+- [Assignment: If-Statement Practice](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%206/picker.m)
+- [Assignment: More Practice](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%206/eligible.m)
+- [Assignment: nargin](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%206/under_age.m)
+- [Assignment: Lesson 5 Wrap-Up](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%206/valid_date.m)
 
 ## Week 7: Loops
 ### Programming Assignments
-- [Assignment: for-loop Practice](week-7/halfsum.m)
-- [Assignment: while-loop Practice](week-7/next_prime.m)
-- [Assignment: Logical Indexing](week-7/freezing.m)
-- [Lesson 6 Wrap-Up](week-7/max_sum.m)
+- [Assignment: for-loop Practice](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%207/halfsum.m)
+- [Assignment: while-loop Practice](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%207/next_prime.m)
+- [Assignment: Logical Indexing](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%207/freezing.m)
+- [Lesson 6 Wrap-Up](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%207/max_sum.m)
 
 ## Week 8: Data Types
 ### Programming Assignments
-- [Assignment: Character Vectors](week-8/caesar.m)
-- [Assignment: Using Cell Arrays](week-8/sparse2matrix.m)
+- [Assignment: Character Vectors](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%208/caesar.m)
+- [Assignment: Using Cell Arrays](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Assignments/Week%208/sparse2matrix.m)
 
 ## Week 9: File Input/Output
 ### Programming Assignments
-- [Assignment: Excel Files](week-9/get_distance.m)
-- [Assignment: Text Files](week-9/char_counter.m)
-- [Assignment: Saddle Points](week-9/saddle.m)
-- [Assignment: Image Blur](week-9/blur.m)
-- [Assignment: Echo Generator](week-9/echo_gen.m)
+- [Assignment: Excel Files](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/tree/main/Assignments/Week%209/get_distance)
+- [Assignment: Text Files](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/tree/main/Assignments/Week%209/char_counter)
+
+## Final Projects
+- [Project: Saddle Points](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Final%20Projects/saddle.m)
+- [Project: Image Blur](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Final%20Projects/blur.m)
+- [Project: Echo Generator](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/main/Final%20Projects/echo_gen.m)
 
 ## 🎓 [Certificate](https://www.coursera.org/account/accomplishments/verify/98MHXZJ9AEK5)
 ![Image](https://i.imgur.com/00J7lEV.png)
