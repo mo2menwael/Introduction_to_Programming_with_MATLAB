@@ -15,4 +15,3 @@ end
 %To call your function
 %type('simple.txt')
 %charnum = char_counter('simple.txt','a')
-%charnum = char_counter('Frankenstein-by-Shelley.txt','?')
