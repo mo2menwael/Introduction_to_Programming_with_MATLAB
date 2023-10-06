@@ -11,6 +11,7 @@
 - [Week 8: Data Types](#week-8-data-types) 
 - [Week 9: File Input/Output](#week-9-file-inputoutput)
 - [Certificate](#-certificate)
+- [Final Projects](#final-projects)
 
 
 ## Week 1: Course Pages
