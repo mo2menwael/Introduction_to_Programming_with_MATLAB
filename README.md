@@ -18,7 +18,7 @@ No Graded Assignment or Quiz
 
 ## Week 2: The MATLAB Environment
 ### Programming Assignments
-- [MATLAB as a Calculator](Assignments/Week 2/MATLAB Calculation.m)
+- [MATLAB as a Calculator](https://github.com/mo2menwael/Introduction_to_Programming_with_MATLAB/blob/57361937b09b84d509fbb38621b5859984a56eda/Assignments/Week%202/MATLAB%20Calculation.m)
 - [Lesson 1 Wrap-Up](Assignments/Week 2/Lesson 1 Wrap-up.m)
 
 ## Week 3: Matrices and Operators
